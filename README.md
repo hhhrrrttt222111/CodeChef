@@ -19,5 +19,5 @@
  
 <br><br><br><br>
  
-### Show some :green_heart: and :star: the Repo to SUPPORT 
+### Please do show some love and support by starring this repository . 
 
