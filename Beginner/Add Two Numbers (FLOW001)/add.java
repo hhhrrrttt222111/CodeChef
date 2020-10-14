@@ -16,6 +16,8 @@ public class Main {
 
             System.out.println(a + b);
         }
+        
+        input.close();
     }
 
     // utility class for fast IO
