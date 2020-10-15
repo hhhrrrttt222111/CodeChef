@@ -5,6 +5,11 @@
 </p>
 <br><br><br>
  
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
 
 ## Complete CodeChef solutions in Python, Java, C, C++, Ruby, JS etc..   <br><br>
  
