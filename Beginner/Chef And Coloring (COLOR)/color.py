@@ -9,7 +9,7 @@ while t:
     g = col.count('G')
     b = col.count('B')
 
-    s = max(r, b, b)
+    s = max(r, g, b)
 
     print(N-s)
 
