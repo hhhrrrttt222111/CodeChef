@@ -3,7 +3,7 @@
 Welcome to the repository! If you face any issue feel free to create an issue.
 If you find any question missing, create a pull request, with title as the question name.
 
-### Raising a PR
+### Raising a Pull Request 
 
 - Follow [How to raise a PR?](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) to raise a PR
 - Please don't copy someone's else solution.
