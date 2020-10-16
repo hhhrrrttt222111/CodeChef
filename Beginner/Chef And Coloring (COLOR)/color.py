@@ -2,11 +2,15 @@ t = int(input())
 
 
 while t:
-    N = int(input())
-    
+    N = int(input()) 
     col = list(input())
 
-    if col.count('R') > col.count('B'):
-        
+    r = col.count('R')
+    g = col.count('G')
+    b = col.count('B')
+
+    s = max(r, b, b)
+
+    print(N-s)
 
     t = t-1
