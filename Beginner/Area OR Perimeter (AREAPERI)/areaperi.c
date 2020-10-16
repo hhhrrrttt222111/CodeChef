@@ -7,14 +7,14 @@ int main() {
 	int area = l*b;
 	int peri = 2*(l+b);
 	if(area > peri ){
-        printf("Area: %d\n", area)
+        printf("Area: %d\n", area);
 	  
 	}
 	else if(area <peri ){
-        printf("Perimeter: %d\n", peri)
+        printf("Perimeter: %d\n", peri);
 	}
 	else {
-	    printf("Eq: %d\n", area)
+	    printf("Eq: %d\n", area);
 	}
 
 	return 0;
