@@ -25,7 +25,11 @@
 * [Hard](https://www.codechef.com/problems/hard/?sort_by=SuccessfulSubmission&sorting_order=desc)
  
  
-<br><br><br><br>
+<br><br><br>
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+<br>
  
 ### Show some :green_heart: and :star: the Repo to SUPPORT 
 
