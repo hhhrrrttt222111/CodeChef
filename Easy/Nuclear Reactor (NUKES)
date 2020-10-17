@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+	int i,j,a,size,k;
+	cin >>a>>size>>k;
+	int arr[k]={},c=0;
+	for(i = 0; i < a; i++)
+    {	   
+	     if(arr[0] < size)
+	     arr[0]++;
+	      else
+           {
+	            arr[0]=0;
+	            for(j = 1; j < k; j++)
+                {
+	              arr[j]++;
+	              if(arr[j]<=size)
+	          break;
+	          else arr[j]=0;
+	        }
+	    }
+	}
+	for(i = 0; i < k; i++)
+	cout<<arr[i]<<" ";
+}
