@@ -1,0 +1,1 @@
+	https://discuss.codechef.com/problems/PALMACH
