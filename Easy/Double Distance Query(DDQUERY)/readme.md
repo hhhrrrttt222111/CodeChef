@@ -1,1 +1,1 @@
-https://discuss.codechef.com/problems/DDQUERY
+### https://discuss.codechef.com/problems/DDQUERY
