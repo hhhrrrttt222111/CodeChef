@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+class Addition 
+{
+public:
+  int Sum(int num1, int num2){
+     return num1+num2;
+  }
+  int Sum(int num1, int num2, int num3){
+     return num1+num2+num3;
+  }
+};
+int main() 
+{
+  int a,b,c,d,e;
+  Addition obj;
+  cout<<"Enter 2 values"
+  cin>>a>>b;
+  cout<<"Enter 3 values"
+  cin>>c>>d>>e;
+  cout<<"Output: "<<obj.Sum(a, b)<<endl;    //This will call the first function
+  cout<<"Output: "<<obj.Sum(c, d, e);   //This will call the second function
+  return 0;
+}
