@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Ada School (ADASCOOL)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Add Two Numbers (FLOW001)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ambiguous Permutations (PERMUT2)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Area OR Perimeter (AREAPERI)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ATM (HS08TEST)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ATM Machine (ATM2)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Buying New Tablet (TABLET)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef And Coloring (COLOR)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Cook-Off (CCOOK)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and digits of a number (LONGSEQ)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Dolls (MISSP)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Eid (EID)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Fruits (FRUITS)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and his Sequence (CHEFSQ)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef And Operators (CHOPRT)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Remissness (REMISS)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and SnackDown (SNCKYEAR)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Table Tennis (TTENIS)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and the Wildcard Matching (TWOSTR)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef and Two Strings (CHEFSTLT)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chef Judges a Competition (CO92JUDG)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Closing the Tweets (TWTCLOSE)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coins And Triangle (TRICOIN)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cops and the Thief Devu (COPS)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Decrement OR Increment (DECINC)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Devu and friendship testing (CFRTEST)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Download file (DWNLD)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Enormous Input Test (INTEST)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Farmer And His Plot (RECTSQ)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Farmer Feb (POTATOES)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find Remainder (FLOW002)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Finding Square Roots (FSQRT)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/First and Last Digit (FLOW004)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fit Squares in Triangle  (TRISQ)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Forgotten Language (FRGTNLNG)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GCD and LCM (FLOW016)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Grade The Steel  (FLOW014)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Greedy puppy (GDOG)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Gross Salary (FLOW011)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Helping Chef (FLOW008)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HOW MANY DIGITS DO I HAVE (HOWMANY)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Id and Ship (FLOW010)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Is it a VOWEL or CONSONANT (VOWELTB)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kitchen Timetable (KTTABLE)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lucky Four (LUCKFOUR)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mahasena (AMR15A)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Malvika is peculiar about color of balloons (CHN09)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum Maximum (MNMX)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mutated Minions (CHN15A)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number Mirror (START01)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Primality Test (PRB01)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Program Your Own CALCULATOR (URCALC)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Puppy and Sum  (PPSUM)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rectangle (RECTANGL)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse The Number (FLOW007)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Second Largest (FLOW017)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simple Statistics (SIMPSTAT)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Small factorials (FCTRL2)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Smallest Numbers of Notes (FLOW005)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum Of Digits (FLOW006)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum OR Difference (DIFFSUM)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sums in a Triangle  (SUMTRIAN)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tanu and Head-bob (HEADBOB)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The Block Game (PALL01)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The Lead Game (TLG)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/The Smallest Pair (SMPAIR)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Three Way Communications (COMM3)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Total Expenses (FLOW009)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Turbo Sort (TSORT)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two Numbers (TWONMS)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two vs Ten (TWOVSTEN)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Valid Triangles (FLOW013)" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
