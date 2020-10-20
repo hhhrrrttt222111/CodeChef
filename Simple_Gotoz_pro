@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+   int N; 
+   cout<<"Enter a number: ";
+   cin>>N;              //to input value into N
+   if (N% 2==0)         //to check if N is odd or even
+   {
+      goto print;       //if N is divisible by 2(even) go directly to the print function
+   }
+   else 
+   {
+      cout<<N<<"\n is an Odd Number";       //If N is not divisible by 2(odd)
+   }
+
+   print:
+   cout<<N<<"\n is an Even Number";
+   return 0;
+}
