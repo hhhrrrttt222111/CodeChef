@@ -1,0 +1,66 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef pair<int, int> pii;
+int l[100001], b[100001], c[100001];
+long long ans[101];
+multiset<pii> dp;
+multiset<pii>::iterator its, its2, its3;
+long long cal(int i){
+    its = dp.insert(pii(l[i], b[i]));
+    long long ans = 0;
+    its2 = its;
+    its2++;
+    if(its2 != dp.end()){
+        if(its2->second >= b[i]){
+            dp.erase(its);
+            return 0;
+        }
+        else{
+            its--;
+            ans += (l[i]-(its->first))*1ll*(b[i]-its2->second);
+            l[i] = its->first;
+        }
+    }
+    else{
+        its--;
+        ans += (l[i]-(its->first))*1ll*(b[i]);
+        l[i] = its->first;
+    }
+
+    while(1){
+        if(its->second >= b[i]) break;
+        its2 = its;
+        its2--;
+        ans += (l[i]-(its2->first))*1ll*(b[i]-(its->second));
+        l[i] = its2->first;
+        if(b[i] >= its->second){
+            its2 = its;
+            its--;
+            dp.erase(its2);
+        }
+        else break;
+    }
+    return ans;
+}
+int main(){
+    int t;
+    scanf("%d", &t);
+    while(t--){
+        dp.clear();
+        dp.insert(pii(0, 2e9));
+        memset(ans, 0, sizeof(ans));
+        int N, C;
+        scanf("%d%d", &N, &C);
+        for(int i=1;i<=N;i++){
+            scanf("%d%d%d", &l[i], &b[i], &c[i]);
+            l[i]/=2;
+            b[i]/=2;
+        }
+        for(int i=N;i>=1;i--){
+            long long res = cal(i);
+            ans[c[i]] += res;
+        }
+        for(int i=1;i<=C;i++) printf("%lld ", ans[i]*4);
+        printf("\n");
+    }   
+}
