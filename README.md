@@ -1,4 +1,18 @@
-# CodeChef  
+# CodeChef <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">
+
+<div align="center">
+ 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) &nbsp;
+[![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) &nbsp;
+![AUR license](https://img.shields.io/aur/license/android-studio?color=red&label=LICENCE&logo=CodeChef&logoColor=yellow&style=flat-square) &nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/issues) &nbsp;
+[![Contributors](https://img.shields.io/github/contributors/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/graphs/contributors) &nbsp;
+[![Languages](https://img.shields.io/github/languages/count/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/search?l=Markdown) &nbsp;
+
+
+
+
+</div>
  
 <p align="center">
    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="" height="130px" >
