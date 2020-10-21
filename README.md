@@ -6,8 +6,13 @@
 [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) &nbsp;
 ![AUR license](https://img.shields.io/aur/license/android-studio?color=red&label=LICENCE&logo=CodeChef&logoColor=yellow&style=flat-square) &nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/issues) &nbsp;
+![GitHub pull requests](https://img.shields.io/github/issues-pr/hhhrrrttt222111/CodeChef?style=flat-square)  &nbsp;
 [![Contributors](https://img.shields.io/github/contributors/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/graphs/contributors) &nbsp;
 [![Languages](https://img.shields.io/github/languages/count/hhhrrrttt222111/CodeChef?style=flat-square)](https://github.com/hhhrrrttt222111/CodeChef/search?l=Markdown) &nbsp;
+
+ <br>
+ 
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/hhhrrrttt222111/CodeChef?style=flat-square) &nbsp;
 
 
 
