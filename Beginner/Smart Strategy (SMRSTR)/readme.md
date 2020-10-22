@@ -29,12 +29,11 @@ Problems on CodeChef must be solved through a lot of analytical thinking. Hence,
 In our problem, it may be so that ```divisor = 0```. And, it is not possible to divide a number by 0. Therefore, in our solution we must implement this corner case as follows: 
 
 ``` 
-		if(divisor==0)
-		{
-			printf("0 ");
-			continue;
-		}
-	
+if(divisor==0)
+{
+	printf("0 ");
+	continue;
+}
 ```
 
 That is all that we need to keep in mind while solving this particular problem! :)
