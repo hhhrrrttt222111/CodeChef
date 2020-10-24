@@ -1,0 +1,1 @@
+### https://www.codechef.com/problems/SEGM01
