@@ -10,14 +10,11 @@ def count_num(n):
 round = int(input())
 output=[]
 for i in range(round):
-    a, b, *rest = [int(e) for e in input().split()]
-    n1 = a//9
-    n2 = b//9
-    if(n1<n2):
-        # print("0",count_num(a))
-        output.append(f"0 {count_num(a)}")
+    num1, num2, *rest = [int(e) for e in input().split()]
+    if(num1//9 < num2//9):
+        output.append(f"0 {count_num(num1)}")
     else:
-        output.append(f"1 {count_num(b)}")
+        output.append(f"1 {count_num(num2)}")
 
 for line in output:
     print(line)
