@@ -2,7 +2,7 @@
 
 Welcome to the repository! If you face any issue feel free to create an issue.
 If you find any question missing, create a pull request, with title as the question name.
-Make sure that you create a folder an name it with the question name and code if it doesn't exists.
+Make sure that you create a folder and name it with the question name and code if it doesn't exists.
 
 ### Raising a Pull Request 
 
