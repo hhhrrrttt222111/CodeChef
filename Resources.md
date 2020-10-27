@@ -14,8 +14,7 @@
 
 <hr>
 
-**[Clever Programmer]
-(https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)**
+**[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)**
 
 <hr>
 
