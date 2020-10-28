@@ -1,5 +1,6 @@
 all_round  = int(input())
 ans = []
+
 for round in range(all_round):
     all_bank, cost, *rest = [int(e) for e in input().split()]
     money = 0
