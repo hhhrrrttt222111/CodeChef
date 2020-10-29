@@ -5,10 +5,10 @@ typedef unsigned long long int uli;
 int main()
 {
 	jaadu;
-	int t;
+	uli t;
 	cin>>t;
 	while(t--){
-		int n,k,v;
+		uli n,k,v;
 		cin>>n>>k>>v;
 		vector<int> arr(n);
 		uli sum = 0;
