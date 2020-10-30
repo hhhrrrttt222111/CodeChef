@@ -1,6 +1,6 @@
 # CodeChef <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -66,13 +66,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://hhhrrrttt222111.me/"><img src="https://avatars2.githubusercontent.com/u/43471295?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hhhrrrttt222111</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=hhhrrrttt222111" title="Code">💻</a></td>
+    <td align="center"><a href="http://hhhrrrttt222111.me/"><img src="https://avatars2.githubusercontent.com/u/43471295?v=4" width="100px;" alt=""/><br /><sub><b>hhhrrrttt222111</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=hhhrrrttt222111" title="Code">💻</a></td>
+    <td align="center"><a href="https://ashishjagrawal.github.io/"><img src="https://avatars0.githubusercontent.com/u/44999678?v=4" width="100px;" alt=""/><br /><sub><b>Ashish kumar jagrawal</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=Ashishjagrawal" title="Code">💻</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
