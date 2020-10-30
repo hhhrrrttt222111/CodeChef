@@ -18,7 +18,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Ashishjagrawal",
+      "name": "Ashish kumar jagrawal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44999678?v=4",
+      "profile": "https://ashishjagrawal.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
