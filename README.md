@@ -1,6 +1,6 @@
 # CodeChef <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
@@ -70,6 +70,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://ashishjagrawal.github.io/"><img src="https://avatars0.githubusercontent.com/u/44999678?v=4" width="100px;" alt=""/><br /><sub><b>Ashish kumar jagrawal</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=Ashishjagrawal" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sayand0122"><img src="https://avatars1.githubusercontent.com/u/53222600?v=4" width="100px;" alt=""/><br /><sub><b>Sayan Dutta</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=sayand0122" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Yash0605"><img src="https://avatars2.githubusercontent.com/u/12882931?v=4" width="100px;" alt=""/><br /><sub><b>Yash</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=Yash0605" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DesmondWasHere"><img src="https://avatars3.githubusercontent.com/u/43543908?v=4" width="100px;" alt=""/><br /><sub><b>Subrat Katiyar</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=DesmondWasHere" title="Code">💻</a></td>
   </tr>
 </table>
 
