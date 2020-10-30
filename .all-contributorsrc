@@ -1,0 +1,24 @@
+{
+  "projectName": "CodeChef",
+  "projectOwner": "hhhrrrttt222111",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "hhhrrrttt222111",
+      "name": "hhhrrrttt222111",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43471295?v=4",
+      "profile": "http://hhhrrrttt222111.me/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
