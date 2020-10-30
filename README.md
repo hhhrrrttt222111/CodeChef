@@ -1,4 +1,7 @@
 # CodeChef <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/CodeChef?style=flat-square&logo=CodeChef">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center">
  
@@ -53,3 +56,23 @@
  
 ### Show some :green_heart: and :star: the Repo to SUPPORT 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Bgosse1"><img src="https://avatars3.githubusercontent.com/u/5419632?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bryant Gossett</b></sub></a><br /><a href="https://github.com/dmodena/CodeChef/commits?author=Bgosse1" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
