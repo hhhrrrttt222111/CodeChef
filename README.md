@@ -66,7 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Bgosse1"><img src="https://avatars3.githubusercontent.com/u/5419632?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bryant Gossett</b></sub></a><br /><a href="https://github.com/dmodena/CodeChef/commits?author=Bgosse1" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://hhhrrrttt222111.me/"><img src="https://avatars2.githubusercontent.com/u/43471295?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hhhrrrttt222111</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/CodeChef/commits?author=hhhrrrttt222111" title="Code">💻</a></td>
   </tr>
 </table>
 
