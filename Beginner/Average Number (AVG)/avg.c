@@ -4,7 +4,7 @@ int main(void) {
 	// your code goes here
 	int t,n,k,avg,sum,i,diff,ans;
 	scanf("%d",&t);
-	while(t-->0)
+	while(t--)
 	{
 	    sum=0;
 	    scanf("%d %d %d",&n,&k,&avg);
