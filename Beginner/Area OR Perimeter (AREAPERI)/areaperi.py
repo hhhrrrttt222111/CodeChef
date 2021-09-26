@@ -1,8 +1,8 @@
-l = int(input())
-b = int(input())
+length = int(input())
+breath = int(input())
 
-peri = 2*(l+b)
-area = l*b
+peri = 2*(length+breath)
+area = length*breath
 
 if area>peri:
     print('Area')
