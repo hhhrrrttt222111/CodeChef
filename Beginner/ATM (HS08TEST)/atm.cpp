@@ -4,18 +4,19 @@ using namespace std;
 int main(){
 
     int withdraw;
-    double balance, total;
+    double balance;
 
     cin >> withdraw >> balance;
 
-    if (withdraw % 5 != 0)
+    if (withdraw % 5 == 0 && withdraw + 0.5 <= balance)
     {
-        cout << balance << endl;
+        cout << balance - withdraw - 0.5 << endl; 
     }
     else
     {
-        cout << balance - double(withdraw) - 0.5 << endl;
+        cout << balance;
     }
 
     return 0;
 }
+
