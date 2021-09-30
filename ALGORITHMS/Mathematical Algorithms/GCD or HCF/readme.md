@@ -1,1 +1,1 @@
-# Finding GCD/HCF using Recursion
+# Finding GCD/HCF using Recursive Technique
