@@ -1,48 +1,46 @@
 # Array
 
-**Freq_sorted** : used to find the frequency of elements in a sorted array.
+**Deletion**: deleting and shifting array elements.
+
+**FreqInUnsortedArray**: freq in unsorted array
+
+**FreqOfElementsInSorted** : used to find the frequency of elements in a sorted array.
+
+**Insertion**: insertion in an array
+
+**LargestElement**: max element in array
 
 **Learders_in_array**: used to find the leader ( elements greater than neighbouring elements ) in an array.
 
-**Left_rotate_by_d**: used to left rotate an array by d units.
+**LeftRotateByD**: used to left rotate an array by d units.
 
-**MIN_flips**: find to find the minimum elements to flip tomake all elements either 1 or 0.
+**LongestOddEvenSubArray**: longest subarray with odd even elements.
 
-**Maximum_diff_array**: find maximum diff between two elements of an array.
+**MaxCircularSum**: maximum sum of an circular sub array
 
-**Maximum_subarray_sum**: find max sum of an subarray.
+**MaximumDiffInArray**: find maximum diff between two elements of an array.
+
+**MaximumSubarraySum**: find max sum of an subarray.
+
+**MaxLengthOfConsecutiveOnes**: maximum length of consecutive ones
+
+**MinFlips**: find to find the minimum elements to flip tomake all elements either 1 or 0.
+
+**MovingZerosToEnd**: moving all the zeros to the end of the array.
 
 **N_bonacci**: find N bonacci numbers
 
+**RemovingDuplicates**: removing duplicates from an array.
+
+**ReversingArray**: reversing an array.
+
+**secondLargestElementInArray**: finding the second largest element in an array.
+
 **Stonks**: stocks buy and sell problem
 
-**Trapping_rain**: maximum rain that can be trapped between buildings.
+**subArrayWithGivenSum**: finding a sub-array with a given sum.
 
-**Consecutive_ones**: maximum length of consecutive ones
+**TrappingRainProblem**: maximum rain that can be trapped between buildings.
 
-**deletion**: deleting and shifting array elements.
-
-**freq_unsorted**: freq in unsorted array
-
-**insertion**: insertion in an array
-
-**largest**: max element in array
-
-**longest_odd_even**: longest subarray with odd even elements.
-
-**max_circular_sum**: maximum sum of an circular sub array
-
-**removing_duplicates**: removing duplicates from an array.
-
-**reverse**: reversing an array.
-
-**searching**: searching in an array.
-
-**second_largest**: finding the second largest element in an array.
-
-**subarray_with_given_sum**: finding a sub-array with a given sum. 
-
-**window_sliding_technique**: using window sliding technique.
-
-**zeros_to_end**: moving all the zeros to the end of the array.
+**WindowSlidingTechnique**: using window sliding technique.
 
