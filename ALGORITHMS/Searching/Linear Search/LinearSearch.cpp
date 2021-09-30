@@ -1,30 +1,44 @@
-#include<iostream>
+#include <iostream>
+#include <string>
 using namespace std;
-int linearSearch(int arr[], int n, int key) {
-    for (int i = 0; i < n; i++)
+
+void linearSearch(int a[], int n)
+{
+    int temp = -1;
+    for (int i = 0; i < 5; i++)
     {
-        if (arr[i] == key) {
-            return i;
+        if (a[i] == n)
+        {
+            cout << "Element found at position: " << i + 1 << endl;
+            temp = 0;
+            break;
         }
     }
-    return -1;
+    if (temp == -1)
+    {
+        cout << "No Element found" << endl;
+    }
 }
 
-int main() {
-    int n;
-    cin >> n;
-
-    int arr[n];
-    for (int i = 0; i < n; i++)
+int main()
+{
+    int size;
+    int *ptr;
+    cout << "Enter number of values you want to store (size of array):" << endl;
+    cin >> size;
+    ptr = new int[size];
+    cout << "Enter values to be stored in the array" << endl;
+    for (int i = 0; i < size; i++)
     {
-        cin >> arr[i];
+        cin >> ptr[i];
     }
-    // for (int i = 0; i < n; i++)
-    // {
-    //     cout << arr[i] << " ";
-    // }
-    int key;
-    cin >> key;
-    cout << linearSearch(arr, n, key) << endl;
+
+    cout << "Please enter an element to search" << endl;
+    int num;
+    cin >> num;
+
+    linearSearch(ptr, num);
+
     return 0;
 }
+
