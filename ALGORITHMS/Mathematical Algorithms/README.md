@@ -23,3 +23,5 @@
 **Zeros in factorial**: used to find number of zeros in a number's factorial.
 
 **Binomial Coefficient**: Used to find the Binomail Coefficient of 2 given parameters.
+
+**Kaprekar Numbers**: Used to check whether a given number is Kaprekar or not.
