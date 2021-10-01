@@ -9,12 +9,13 @@ while t:
             D[L[i]]=1
         else:
             D[L[i]]+=1
-    arr = []
+            
+    arr = list(D.keys())
     c = 0
+    
     for key,value in D.items():
         if value>1:
-            c=c+1
-            arr.append(key)
+            c+=1
     if True:
         arr.sort(reverse=True)
         if D[arr[0]]>3:
@@ -24,5 +25,5 @@ while t:
         else:
             print(arr[0]*arr[1])
 
-    t = t-1
+    t -= -1
         
