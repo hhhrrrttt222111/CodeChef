@@ -25,3 +25,5 @@
 **Binomial Coefficient**: Used to find the Binomail Coefficient of 2 given parameters.
 
 **Kaprekar Numbers**: Used to check whether a given number is Kaprekar or not.
+
+**Armstrong Numbers**: Used to check whether a given number is Armstrong or not.
