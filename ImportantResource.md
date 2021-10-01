@@ -84,7 +84,7 @@
 </ul>
 
 
-                                   <h2> Platforms and  books for interview  preparation of DSA topic</h2>
+<h2> Platforms and  books for interview  preparation of DSA topic</h2>
 <ul>
 <li>
 <h3>DSA made easy book</h3>
