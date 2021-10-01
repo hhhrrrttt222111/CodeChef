@@ -1,0 +1,55 @@
+
+import math
+import sys
+input=sys.stdin.readline
+from collections import Counter, defaultdict, deque
+
+def f(n, k, a):
+    currmax = 0
+    totmax = 0
+    i = 0
+    j = 0
+    while j < n:        
+        currmax += a[j]
+        if currmax < 0:
+            currmax = 0
+        if currmax > totmax:
+            totmax = currmax
+        j += 1
+    if totmax == 0:
+        return max(a)
+    if k == 1:
+        return totmax
+
+    psa = sum(a)
+    a = a + a
+    currmax = 0
+    totmax = 0
+    i = 0
+    j = 0
+    while j < 2*n:
+        currmax += a[j]
+        if currmax < 0:
+            currmax = 0
+        if currmax > totmax:
+            totmax = currmax
+        j += 1
+    
+    if totmax == 0:
+        return max(a)
+    if psa > 0: 
+        return (k-2)*psa + totmax
+    else:
+        return totmax
+
+
+t = int(input())
+result = []
+for i in range(t):
+    #n = int(input())
+    n, k = list(map(int, input().split()))
+    a = list(map(int, input().split()))
+    result.append(f(n, k, a))
+for i in range(t):
+    print(result[i])
+
