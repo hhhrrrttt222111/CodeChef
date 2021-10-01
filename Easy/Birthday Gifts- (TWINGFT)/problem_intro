@@ -1,0 +1,31 @@
+It’s Chef's birthday. He and his twin have received N gifts in total. The i-th gift has a price of Ai. Each twin wants to keep the most expensive gifts for himself.
+
+The twins take K turns alternately (each has K turns, for 2⋅K turns in total). It is given that 2⋅K+1≤N. In a turn, a person may choose one gift. The only 
+exception is the last turn of the twin who moves second, where he gets to choose two gifts instead of one. Assuming they both choose gifts optimally and you can 
+choose who takes the first turn, find the maximum total cost of the gifts that Chef keeps.
+======================================================================================================================================================================
+🔥
+======================================================================================================================================================================
+## Input ✨✨
+The first line contains an integer T, the number of test cases. Then the test cases follow.
+Each test case contains two lines of input.
+The first line contains two space-separated integers N, K.
+The second line contains N space-separated integers A1,A2,…,AN, the price of the gifts.
+======================================================================================================================================================================
+🔥
+======================================================================================================================================================================
+
+## Output ✨✨
+For each test case, output in a single line the answer to the problem.
+======================================================================================================================================================================
+🔥
+======================================================================================================================================================================
+
+## Constraints
+1≤T≤100
+3≤N≤103
+1≤K≤N−12
+1≤Ai≤10
+======================================================================================================================================================================
+🔥
+======================================================================================================================================================================
