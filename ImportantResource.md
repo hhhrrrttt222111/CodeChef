@@ -85,6 +85,7 @@
 
 
                                    <h2> Platforms and  books for interview  preparation of DSA topic</h2>
+<ul>
 <li>
 <h3>DSA made easy book</h3>
 <a href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X">Link</a>
