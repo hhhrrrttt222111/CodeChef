@@ -21,3 +21,5 @@
 **Sieve of eratothenes**: Check a number is prime or not in O(n^(1/2)) time complexity.
 
 **Zeros in factorial**: used to find number of zeros in a number's factorial.
+
+**Binomial Coefficient**: Used to find the Binomail Coefficient of 2 given parameters.
