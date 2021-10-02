@@ -1,0 +1,1 @@
+The Dice problem is a problem in which we have to find out the nuumber of ways to generatea sum *n* by throwing a dice 1 or more than one types. 
