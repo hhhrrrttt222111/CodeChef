@@ -1,0 +1,1 @@
+This problem involves us to use *n* coins to get a sum of *x*, we have to find out the minimum number of coins needed to be used to get *x*
