@@ -23,7 +23,7 @@ def main():
     results = []
 
     #prompt the inputted amount of test cases
-    for test_cases in range(test_cases):
+    for i in range(test_cases):
         num = int(input("Enter an Integer: "))
         seq = input("Enter a Sequence: ")
         results.append(binaryConcatenation(num, seq))
