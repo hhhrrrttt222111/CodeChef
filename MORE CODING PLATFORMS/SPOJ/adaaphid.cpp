@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/ADAAPHID/
+
 #include <bits/stdc++.h>
 using namespace std;
 
