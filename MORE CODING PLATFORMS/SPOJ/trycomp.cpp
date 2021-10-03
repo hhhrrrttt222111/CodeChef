@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/TRYCOMP/
+
 #include <bits/stdc++.h>
 using namespace std;
 
