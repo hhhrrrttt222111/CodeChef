@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/QTREE/
+
 #include <bits/stdc++.h>
 using namespace std;
 
