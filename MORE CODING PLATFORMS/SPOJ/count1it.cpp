@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/COUNT1IT
+
 #include <bits/stdc++.h>
 using namespace std;
 
