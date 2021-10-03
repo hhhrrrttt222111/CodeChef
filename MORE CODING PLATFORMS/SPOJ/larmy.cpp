@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/LARMY/
+
 #include <bits/stdc++.h>
 using namespace std;
 
