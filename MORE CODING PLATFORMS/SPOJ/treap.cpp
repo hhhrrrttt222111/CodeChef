@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/TREAP/
+
 #include <bits/stdc++.h>
 using namespace std;
 
