@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/DYNACON1/
+
 #include <bits/stdc++.h>
 using namespace std;
 
