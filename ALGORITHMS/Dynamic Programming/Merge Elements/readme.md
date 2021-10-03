@@ -1,0 +1,5 @@
+- # Problem Statement: (Level Hard)
+- Given an integer array A of size N. You have to merge all the elements of the array into one with the minimum possible cost.
+- The rule for merging is as follows:
+- Choose any two adjacent elements of the array with values say X and Y and merge them into a single element with value (X + Y) paying a total cost of (X + Y).
+- Return the minimum possible cost of merging all elements.
