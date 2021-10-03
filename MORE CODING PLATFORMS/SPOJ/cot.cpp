@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/COT/
+
 #include <bits/stdc++.h>
 using namespace std;
 
