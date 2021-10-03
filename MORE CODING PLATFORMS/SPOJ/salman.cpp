@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/SALMAN/
+
 #include <bits/stdc++.h>
 using namespace std;
 
