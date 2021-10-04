@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void mixture()
+{ int a, b;
+    cin>>a>>b;
+    
+    if(a+b>0)
+        if(a>0 && b>0)
+            cout<<"Solution"<<endl;
+            else if(a==0)
+                cout<<"Liquid"<<endl;
+                else 
+                    cout<<"Solid"<<endl;
+}
+
+int main() {
+	int t;
+	cin>>t;
+	while(t--)
+	{
+	    mixture();
+	}
+	return 0;
+}
