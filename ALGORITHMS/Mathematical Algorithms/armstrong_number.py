@@ -21,13 +21,7 @@ def armstrong(n):
     for i in all_digits:  # calculate sum by adding digit**no of digits
         sum_ = sum_+i**num_digits
 
-    print(sum_)
-    print(initial_num)
-
     if sum_ == initial_num:  # return True if armstrong
         return True
     else:
         return False
-
-
-print(armstrong(1153))
