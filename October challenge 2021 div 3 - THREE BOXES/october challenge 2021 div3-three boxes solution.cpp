@@ -13,7 +13,7 @@ int main()
         cin>>a>>b>>c>>d;
         int sum=a+b+c;
         if(sum<=d)ans=1;
-        else if((a==d && b==d && c==d) || (a+b>d && a+c>d && c+b>d))ans=3;
+        else if(a+b>d)ans=3;
         else ans=2;
         
         cout<<ans<<endl;
