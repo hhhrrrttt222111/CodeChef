@@ -1,0 +1,2 @@
+- Level: (C) 
+- Link: https://codeforces.com/problemset/problem/1015/C
