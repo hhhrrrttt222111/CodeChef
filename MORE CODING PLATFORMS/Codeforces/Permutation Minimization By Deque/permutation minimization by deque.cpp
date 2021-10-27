@@ -1,50 +1,38 @@
-#include<bits/stdc++.h>
-#define ll long long int
-#define ndl "\n"
-#define tt int tc;cin>>tc;while(tc--)
-#define arrin(a,n) for(int INPUT=0;INPUT<n;INPUT++)cin>>a[INPUT]
-#define fo(i,n) for(int i=0;i<n;i++)
-#define all(a) a.begin() , a.end()
-#define f first
-#define se second
-#define fast ios_base::sync_with_stdio(false); cout.tie(0); cin.tie(0);
+#include <bits/stdc++.h>
 using namespace std;
-const int mod = 1e9 + 7;
-
 int main() {
-	fast;
-#ifndef ONLINE_JUDGE
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-#endif
-	tt {
-		ll n;
-		cin >> n;
-		deque<ll> dq(n);
-		arrin(dq, n);
-		deque<ll> d;
-		// cout << d.size();
-		ll x;
-		for (int i = 0; i < n; ++i)
-		{
-			if (i == 0) {
-				d.push_front(dq[i]);
-				x = d[i];
-			}
-			else if (dq[i] <= x) {
-				d.push_front(dq[i]);
-				x = dq[i];
-			}
-			else
-				d.push_back(dq[i]);
-		}
-		// cout << n << " " << d.size();
-		for (int i = 0; i < d.size(); ++i)
-		{
-			cout << d[i] << " ";
-		}
-		cout << ndl;
-	}
-// cerr << "time taken: " << (float)clock() / CLOCKS_PER_SEC << "secs" << endl;
-	return 0;
+    int t;
+    cin>>t;
+    for(int tc=0; tc<t; tc++){
+        vector<vector<int>> result;
+       int n,a;
+       cin>>n;
+       vector<int> arr;
+       for(int i=0; i<n; i++){
+           cin>>a;
+           arr.push_back(a);
+       }
+       deque<int> q;
+       int i,min = INT_MAX;
+        for(i=0; i<n; i++){
+            if(arr[i] == 1)
+            break;
+            if(arr[i] < min){
+                min = arr[i];
+            q.push_front(arr[i]);
+            }
+            else
+            q.push_back(arr[i]);
+        }
+    
+        cout<<1<<" ";
+        while(!q.empty()){
+            cout<<q.front()<<" ";
+            q.pop_front();
+        }
+        for(int j=i+1; i<n; i++){
+            if(arr[i] != 1)
+            cout<<arr[i]<<" ";
+        }cout<<endl;
+    }
 }
