@@ -1,5 +1,4 @@
 # [Professor And Directions (DIRECTN)](https://www.codechef.com/START16C/problems/DIRECTN/)
-Professor And Directions Problem Code: DIRECTNSolvedSubmit (Practice)
 The Professor is facing the North. Tokyo is in trouble, and she is facing the South. Professor being her guardian angel wants to help her.
 
 So, The Professor will follow some instructions, given as a string S of length N, and will turn either left or right according to these instructions. He can save Tokyo only if after following a substring of instructions he will face in the same direction that Tokyo is facing.
