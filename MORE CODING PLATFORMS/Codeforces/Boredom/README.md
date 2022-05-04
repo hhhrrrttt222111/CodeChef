@@ -12,6 +12,8 @@ The first line contains integer n (1 ≤ n ≤ 10^5) that shows how many
 The second line contains n integers a1, a2, ..., an (1 ≤ ai ≤ 10^5).
 
 ## Output
+Print a single integer — the maximum number of points that Alex can earn.
+
 ## My Solution
 - First I go through the array and create a new array of the frequencies of each number in their respective index, for example the frequency of the number 7 is stored at index 7 in the array.
-- I then go through that array and build up the sum by choosing to add either the current number or the previous number depending on which is bigger.
+- I then go through that array and build up the sum by choosing to add either the previous number (at index i-1) or combined sum of the current number and the number before the previous number(at index i-2).s
